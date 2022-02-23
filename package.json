@@ -1,0 +1,24 @@
+{
+  "name": "vados_bass",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gklijs/vados_bass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gklijs/vados_bass/issues"
+  },
+  "homepage": "https://github.com/gklijs/vados_bass#readme",
+  "devDependencies": {
+    "netlify-plugin-cache": "^1.0.3",
+    "netlify-plugin-debug-cache": "^1.0.4",
+    "node-sass": "^7.0.1"
+  }
+}

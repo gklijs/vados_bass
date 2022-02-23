@@ -1,0 +1,6 @@
+[[plugins]]
+package = "netlify-plugin-cache"
+[plugins.inputs]
+paths = ["target/release/vados_bass", "public/css/main.css"]
+[[plugins]]
+package = "netlify-plugin-debug-cache"
