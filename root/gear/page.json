@@ -1,0 +1,13 @@
+{
+  "title": "Gear",
+  "subTitle": "some sub title",
+  "icon": "music-note-outline",
+  "content": "gear.md",
+  "leftNotifications" : [
+    {
+      "title" : "Gear",
+      "color" : "Primary",
+      "content" : "gear-intro.md"
+    }
+  ]
+}

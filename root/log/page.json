@@ -1,0 +1,13 @@
+{
+  "title" : "Log",
+  "subTitle" : "log sub title",
+  "icon": "notebook",
+  "content" : "log.md",
+  "leftNotifications" : [
+    {
+      "title" : "SBL Academy",
+      "color" : "Black",
+      "content" : "sbl.md"
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+use vados::generator::generate;
+
 fn main() {
-    println!("Hello, world!");
+    generate("root", "public")
 }

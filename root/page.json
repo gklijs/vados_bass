@@ -1,0 +1,18 @@
+{
+  "title" : "Home",
+  "subTitle" : "Introduction to Gerard's bass playing adventures",
+  "content" : "home.md",
+  "leftNotifications" : [
+    {
+      "title" : "Welcome",
+      "color" : "White",
+      "content" : "welcome.md"
+    }
+  ],
+  "rightNotifications" : [
+    {
+      "color" : "Warning",
+      "content" : "vados.md"
+    }
+  ]
+}
