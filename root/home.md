@@ -10,4 +10,4 @@ Some poins:
 - two
 - three
 
-And an image ![bass gitar](../img/Gerard_1.jpg)
+And an image ![bass gitar](/img/Gerard_1.jpg)
