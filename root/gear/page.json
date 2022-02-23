@@ -6,7 +6,7 @@
   "leftNotifications" : [
     {
       "title" : "Gear",
-      "color" : "Primary",
+      "color" : "Danger",
       "content" : "gear-intro.md"
     }
   ]
