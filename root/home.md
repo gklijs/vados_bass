@@ -1,6 +1,6 @@
 ## My journey to mastering the bass
 
-This is the home page of my new site. I play pass about 5 years now, but trying to make an effort to improve my playing,
+This is the home page of my new site. I play bass about 5 years now, but trying to make an effort to improve my playing,
 as I still consider myself a beginner. A lot of the time I didn't practice daily, something I try to improve with the
 log starting in [February 2021](/log/2021/2).
 
