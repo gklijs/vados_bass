@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-vados = { git = "https://github.com/gklijs/vados", branch = "dev" }
+vados = "0.0.2"
