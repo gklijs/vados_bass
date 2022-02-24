@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gklijs/vados_bass#readme",
   "devDependencies": {
+    "css-minify": "^2.0.0",
     "netlify-plugin-cache": "^1.0.3",
     "netlify-plugin-debug-cache": "^1.0.4",
     "node-sass": "^7.0.1"
