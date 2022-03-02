@@ -2,6 +2,7 @@
   "title": "Gear",
   "subTitle": "some sub title",
   "icon": "music-note-outline",
+  "image" : "/gear/office_gear",
   "content": "gear.md",
   "leftNotifications" : [
     {

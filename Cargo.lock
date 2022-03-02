@@ -861,8 +861,9 @@ checksum = "8ccb82d61f80a663efe1f787a51b16b5a51e3314d6ac365b08639f52387b33f3"
 
 [[package]]
 name = "vados"
-version = "0.0.2"
-source = "git+https://github.com/gklijs/vados?branch=dev#ffd2fa8c195d841467d7d617468e80c41d47fc5a"
+version = "0.0.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "cb34ab6797ba264a6de4c2932fb25465548ea3f956bb8dfe2312a27b02c04eb3"
 dependencies = [
  "askama",
  "dashmap",

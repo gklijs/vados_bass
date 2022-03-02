@@ -6,6 +6,7 @@
     {
       "title" : "Welcome",
       "color" : "White",
+      "image" : "/gear/amber_stars_horizontal",
       "content" : "welcome.md"
     }
   ],
