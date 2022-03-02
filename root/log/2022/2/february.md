@@ -1,1 +1,1 @@
-Training logs from february 2022
+Training logs from February 2022
